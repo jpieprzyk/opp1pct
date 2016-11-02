@@ -1,0 +1,15 @@
+.project
+.Rhistory
+pdf
+download
+*.class
+target
+.idea
+.Rproj.user
+~*
+*.txt
+.DS_Store
+*.ods
+*.xls
+*.xlsx
+*.db
